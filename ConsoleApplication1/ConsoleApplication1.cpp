@@ -1,5 +1,4 @@
-﻿
-#include <gl/glut.h>
+﻿#include <gl/glut.h>
 #include <gl\gl.h>
 #include <gl\freeglut.h>
 
